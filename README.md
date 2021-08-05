@@ -6,7 +6,7 @@ which is *really* slow.
 
 ## What comes next?
 
-I am currently working on a rewrite in Rust. Since I have to rewrite an entire library in an entirely different language, it might take a while. Just hang in there.
+I am currently working on a rewrite in a faster language (probably Rust or C). Since I have to rewrite an entire library in an entirely different language, it might take a while. Just hang in there.
 
 Oh also, I might change the format to be a little more compact. We'll see.
 
